@@ -23,7 +23,7 @@ Using `WishTify`, you'll be able to import your musics, and also create several 
 In `WishTify`'s folder, you can find a `song` folder and a `playlist` folder. Both of them are only present for ease of use and convenience, they aren't actually used by `WishTify`, and you can play music and store playlists everywhere on your computer.
 
 Here is an image with basics explanations on it :
-![Screenshot](img/markdown/HowToUse.png)
+<img src="img/markdown/howtouse.png">
 
 # Additionnal Informations
 ### About songs
