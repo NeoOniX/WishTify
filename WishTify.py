@@ -22,7 +22,7 @@ class Music :
     def __init__(self, store : str):
         # We test if the location ends with .mp3
         if not store.endswith(".mp3") :
-            raise ValueError("`store` devrait se terminer par .mp3")
+            raise ValueError("`store` should end with .mp3")
         self.store = store
         self.name = store.split("/")[-1].replace(".mp3", "", 1)
 
