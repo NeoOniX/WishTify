@@ -35,4 +35,3 @@ You can read [this document](playlist/Playlist.md) for more informations about p
 This MP3 Player is provided to you by :  
 - <img width="25px" src="img/markdown/onix.png"> [@OniXGaming](https://github.com/OniXGaming)
 - <img width="25px" src="img/markdown/assa.png"> [@AssADev](https://github.com/AssADev)
-- <img width="25px" src="img/markdown/unix.png"> With Support of the entire [@UniX-Corp](https://github.com/UniX-Corp) ❤️
