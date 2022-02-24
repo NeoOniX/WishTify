@@ -33,5 +33,5 @@ You can read [this document](playlist/Playlist.md) for more informations about p
 
 # Credits
 This MP3 Player is provided to you by :  
-- <img width="25px" src="img/markdown/onix.png"> [@OniXGaming](https://github.com/OniXGaming)
+- <img width="25px" src="img/markdown/onix.png"> [@NeoOniX](https://github.com/NeoOniX)
 - <img width="25px" src="img/markdown/assa.png"> [@AssADev](https://github.com/AssADev)
